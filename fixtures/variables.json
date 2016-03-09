@@ -6,112 +6,112 @@
 	},
 	"description": "List of Variables of this dataset",
 	"index": {
-		"786c0fc48a424dc2b46cb8fcfebcced5/": {
+		"786c0f": {
 			"name": "Unaided Awareness (Coffee Roasters)",
 			"type": "multiple_response",
 			"description": "When you think of independent coffee roasters, which names come to mind?"
 		},
-		"d8861350801f407eb215d886a447259e/": {
+		"d88613": {
 			"name": "City",
 			"type": "text",
 			"description": "City where survey was performed"
 		},
-		"0894c56a99fe494cacfd9fa9ec57294a/": {
+		"0894c5": {
 			"name": "Weight",
 			"type": "numeric",
 			"description": "Are you the parent or guardian of any children under the age of 18?"
 		},
-		"0323cf3993c740da91fa83d7f99bca24/": {
+		"0323cf": {
 			"name": "Wave",
 			"type": "datetime",
 			"description": "Wave"
 		},
-		"d0fe8b95a31940c5a9a8d975c1f951f3/": {
+		"d0fe8b": {
 			"name": "weight",
 			"type": "numeric",
 			"description": ""
 		},
-		"2d27ab07d3a14654b401c5cbbdafda9c/": {
+		"2d27ab": {
 			"name": "Aided Awareness (Coffee Roasters)",
 			"type": "multiple_response",
 			"description": "Which of these independent coffee roasters have you heard of? Check all that apply."
 		},
-		"7a89e00755114c9293d0d1feba7a371f/": {
+		"7a89e0": {
 			"name": "Aided Awareness (Taxis)",
 			"type": "multiple_response",
 			"description": "Which of the following on-demand taxi and car services have you heard of? Check all that apply."
 		},
-		"f2a68137d12949479480d7235984608d/": {
+		"f2a681": {
 			"name": "Specific Service Usage",
 			"type": "multiple_response",
 			"description": "Which of the following on-demand taxi and car services have you used in the past two months? [Asked if used any service]"
 		},
-		"8f7db6ad373e49d7b95436448768ccb3/": {
+		"8f7db6": {
 			"name": "Ritual Roasters Usage",
 			"type": "multiple_response",
 			"description": "Which of the following have you purchased in the last month? [Asked if aware of coffee roaster]"
 		},
-		"e08fbc05d68b4e80a3fff63104cd5ac3/": {
+		"e08fbc": {
 			"name": "Education",
 			"type": "categorical",
 			"description": "Education"
 		},
-		"5b6a73030f284003a706115dfa955c0f/": {
+		"5b6a73": {
 			"name": "Children Under 18",
 			"type": "categorical",
 			"description": "Are you the parent or guardian of any children under the age of 18?"
 		},
-		"ede6a8e54a8a432485c4acbd3fc8fe68/": {
+		"ede6a8": {
 			"name": "Consideration",
 			"type": "multiple_response",
 			"description": "If you were to use an on-demand taxi and car service, which of these would you consider?"
 		},
-		"9f4b60c06fbf4c7e97bd1cf693f91136/": {
+		"9f4b60": {
 			"scale": "interval",
 			"type": "categorical_array",
 			"description": ""
 		},
-		"91a33f905f64451f8f42ace2243d1df2/": {
+		"91a33f": {
 			"name": "Family Income",
 			"type": "categorical",
 			"description": "Thinking back over the last year, what was your family's annual income?"
 		},
-		"3a5f89c4691245c3adb3c619fafca9ae/": {
+		"3a5f89": {
 			"name": "FOURBARREL Usage",
 			"type": "multiple_response",
 			"description": "Which of the following have you purchased in the last month? [Asked if aware of coffee roaster]"
 		},
-		"62c00fcaac81454d93ba802d0a52595b/": {
+		"62c00f": {
 			"name": "Likely Purchase",
 			"type": "numeric",
 			"description": "Which of these would you be most likely to use?"
 		},
-		"ee3e40105d124641976f6702f4e06106/": {
+		"ee3e40": {
 			"name": "Stumptown Coffee Roasters Usage",
 			"type": "multiple_response",
 			"description": "Which of the following have you purchased in the last month? [Asked if aware of coffee roaster]"
 		},
-		"11b0b90d08e845c59e5d3a742710affe/": {
+		"11b0b9": {
 			"name": "Unaided Awareness (Taxis)",
 			"type": "multiple_response",
 			"description": "Which of the following taxi services have you heard of?"
 		},
-		"c83da24521444fc785f3197af898ab68/": {
+		"c83da2": {
 			"name": "Gender",
 			"type": "categorical",
 			"description": "Are you male or female?"
 		},
-		"1b44a4c48ca4463c90bed6968dc12fd1/": {
+		"1b44a4": {
 			"name": "Marital Status",
 			"type": "categorical",
 			"description": "What is your marital status?"
 		},
-		"0f6ce07ee1014cea8f96c1d881086ac4/": {
+		"0f6ce0": {
 			"name": "Usage",
 			"type": "categorical",
 			"description": "Have you used a Taxi Service in the last 2 weeks?"
 		},
-		"8d71279e6aae4cc2a932c18d88d7b847/": {
+		"8d7127": {
 			"name": "Blue Bottle Coffee Usage",
 			"type": "multiple_response",
 			"description": "Which of the following have you purchased in the last month? [Asked if aware of coffee roaster]"

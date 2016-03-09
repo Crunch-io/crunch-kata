@@ -3,19 +3,19 @@
 	"self": "/datasets/349d49/variables/hier/",
 	"graph": [{
 		"Awareness Metrics": [{
-			"Taxis": ["../11b0b90d08e845c59e5d3a742710affe/", "../7a89e00755114c9293d0d1feba7a371f/"]
+			"Taxis": ["11b0b9", "7a89e0"]
 		}, {
-			"Coffee": ["../786c0fc48a424dc2b46cb8fcfebcced5/", "../2d27ab07d3a14654b401c5cbbdafda9c/"]
+			"Coffee": ["786c0f", "2d27ab"]
 		}]
 	}, {
 		"Purchase Consideration and Behavior": [{
-			"Taxis": ["../ede6a8e54a8a432485c4acbd3fc8fe68/", "../62c00fcaac81454d93ba802d0a52595b/", "../0f6ce07ee1014cea8f96c1d881086ac4/", "../f2a68137d12949479480d7235984608d/"]
+			"Taxis": ["ede6a8", "62c00f", "0f6ce0", "f2a681"]
 		}, {
-			"Coffee": ["../8d71279e6aae4cc2a932c18d88d7b847/", "../ee3e40105d124641976f6702f4e06106/", "../8f7db6ad373e49d7b95436448768ccb3/", "../3a5f89c4691245c3adb3c619fafca9ae/"]
+			"Coffee": ["8d7127", "ee3e40", "8f7db6", "3a5f89"]
 		}]
 	}, {
-		"Demographics and Technographics": ["../c83da24521444fc785f3197af898ab68/", "../e08fbc05d68b4e80a3fff63104cd5ac3/", "../1b44a4c48ca4463c90bed6968dc12fd1/", "../5b6a73030f284003a706115dfa955c0f/", "../91a33f905f64451f8f42ace2243d1df2/", "../9f4b60c06fbf4c7e97bd1cf693f91136/"]
+		"Demographics and Technographics": ["c83da2", "e08fbc", "1b44a4", "5b6a73", "91a33f", "9f4b60"]
 	}, {
-		"Dimensions": ["../d8861350801f407eb215d886a447259e/", "../0323cf3993c740da91fa83d7f99bca24/"]
-	}, "../d0fe8b95a31940c5a9a8d975c1f951f3/", "../0894c56a99fe494cacfd9fa9ec57294a/"]
+		"Dimensions": ["d88613", "0323cf"]
+	}, "d0fe8b", "0894c5"]
 }
