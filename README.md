@@ -9,17 +9,15 @@ skills in:
 
 ## Problem description
 
-You're working on an application that allows the exploration of survey data. These surveys contain many questions, represented in your view as *variables*. In order to facilitate the discovery of these variables, another team is implementing a tool that allows users to group and order them.
+You're working on an application that enables its users to explore survey data. These surveys contain many questions, or *variables*, which may be grouped and organized in a tree-like structure to make them easier to find. Your job is to develop a web component that displays these variables following the specified order structure. (A different team is implementing the interface for arranging the variables into that order--that's not your responsibility.)
 
-Your job is to develop a web component that displays these variables following the order previously defined by the dataset's owner.
-
-The backend team has provided two test fixtures that you can use to start developing the feature. The first one, `variables.json`, contains the catalog of variables. The second, `order.json`, represents the order in which these variables should be displayed. Each entry in `order.json` maps to an object `variables.json`.
+The backend team has provided two test fixtures that you can use to start developing the feature. The first one, `variables.json`, is the catalog of variables found in a dataset. The second, `order.json`, represents the order in which these variables should be displayed. Each entry in `order.json` maps to an item in `variables.json`.
 
 ## Instructions
 
 The deliverable should contain the following:
 
-1. An AngularJS directive that display the variables catalog following its hierarchical order. It should be easy to infer to which group a variable belongs, i.e.
+1. An AngularJS directive that displays the variable catalog following its hierarchical order. It should be easy to tell the group to which a variable belongs, i.e.
 
     ![HVL](hvl.png)
 
