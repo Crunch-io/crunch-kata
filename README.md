@@ -1,11 +1,6 @@
 # Crunch Kata
 
-Welcome to the Crunch Kata! The purpose of this exercise is evaluate your
-skills in:
-
-1. Automated Testing
-2. Problem solving
-3. AngularJS
+Welcome to the Crunch Kata! The purpose of this exercise is evaluate your automated testing and problem solving skills. 
 
 ## Problem description
 
@@ -17,7 +12,7 @@ The backend team has provided two test fixtures that you can use to start develo
 
 The deliverable should contain the following:
 
-1. An AngularJS directive that displays the variable catalog following its hierarchical order. It should be easy to tell the group to which a variable belongs, i.e.
+1. A component that displays the variable catalog following its hierarchical order. It should be easy to tell the group to which a variable belongs, i.e.
 
     ![HVL](hvl.png)
 
@@ -28,7 +23,7 @@ The deliverable should contain the following:
 
 ## About the tools
 
-We only have one hard requirement: AngularJS.
+Use whatever library, framework, and/or build system that you feel comfortable with. 
 
 ## Deliverable
 
